@@ -3,7 +3,7 @@
 module Greeter
   class Echo
     def greet(name)
-      "Hello, #{name}!"
+      "Goodbye, #{name}!"
     end
   end
 end
